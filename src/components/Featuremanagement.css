@@ -1,0 +1,51 @@
+.feature-title {
+  background-color: #dff0d8; /* Or use a CSS variable */
+  padding: 5px;
+  border-radius: 5px;
+  width: fit-content;
+  margin-bottom: 10px;
+}
+.card-text {
+  background-color: #d8f0ed; /* Or use a CSS variable */
+  padding: 5px;
+  border-radius: 5px;
+  width: fit-content;
+}
+.username {
+  background-color: #edd16b; /* Or use a CSS variable */
+  padding: 5px;
+  border-radius: 5px;
+  width: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.username1 {
+  background-color: #d5b6e6; /* Or use a CSS variable */
+  padding: 5px;
+  border-radius: 5px;
+  width: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.card{
+  background-color: rgb(216, 214, 212);
+}
+.list-group-item{
+  background-color: lightblue;
+}
+.comment{
+  display: flex;
+  flex-direction: column;
+}
+.container-fluid{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 74px;
+}
